@@ -59,11 +59,11 @@
 </div>
 
 <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
-      <img src="https://streak-stats.demolab.com?user=oussamajdig7&theme=chartreuse-dark&hide_border=true" height="165"/>
+      <img src="https://streak-stats.demolab.com?user=oussamaJdig7&theme=chartreuse-dark&hide_border=true" height="165"/>
   </div>
 
 <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamajdig7&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaJdig7&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
 
   </div>
 
