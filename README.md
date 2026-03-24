@@ -15,7 +15,7 @@
 - ⚡ I love building scalable, clean, and efficient applications  
 - 🌱 Currently improving my skills in Advanced Architecture & Performance  
 - 🖥️ Specialized in React & Laravel  
-- 📫 Reach me: oussamajdig7@gmail.com  
+- 📫 Reach me: jdigoussama7@gmail.com 
 - 📱 Phone: 0665199288  
 
 ---
