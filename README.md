@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<!-- <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
+ <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
  <img src="https://github-readme-stats.vercel.app/api?username=oussamajdig7&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
- </div> -->
+ </div> 
 
 <div style="background: #1f1f1f; padding: 10px; border-radius: 10px; text-align: center;">
       <img src="https://streak-stats.demolab.com?user=oussamaJdig7&theme=chartreuse-dark&hide_border=true" height="165"/>
